@@ -1,1 +1,17 @@
-{}
+{
+    "agama-openid": {
+        "projectName": "agama-openid",
+        "description": "Authentication using an external OpenID Connect provider with the 'code' flow",
+        "type": "community",
+        "author": "GluuFederation",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/GluuFederation/agama-openid",
+        "githubUri": "https://github.com/GluuFederation/agama-openid",
+        "license": "MIT",
+        "lastUpdated": "1695647834674",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
